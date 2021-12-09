@@ -1,0 +1,47 @@
+body{
+  background-color: white;
+  text-align: center;
+}
+.name{
+  color: black;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 300%;
+}
+input{
+color:white;
+font-size: 30px;
+cursor: pointer;
+width: 80px;
+height: 80px;
+background-color: #2F3336;
+border-radius: 7px;
+margin-bottom: 10px;
+}
+.first,.second,.third,.fourth,{
+  margin-bottom: 20px;
+}
+input[type="text"]{
+  text-align: center;
+  background-color: green;
+  font-family: 'Play', sans-serif;
+  height:74px;
+  width: 240px;
+  margin-bottom: 10px;
+}
+.b{
+  color: orange;
+  text-align: center;
+  height:77px;
+  width: 162px;
+}
+input[type="button"]:hover{
+  background-color:cyan;
+
+}
+.a{
+  background: red;
+}
+footer{
+  font-size: 30px;
+  font-family: 'Righteous', cursive;
+}
